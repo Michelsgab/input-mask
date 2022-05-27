@@ -19,6 +19,7 @@ const App: React.FC = () => {
 
   return (
     <div className="container">
+      <h1>Masks</h1>
       <span>CEP</span>
       <Input
         name="cep"
